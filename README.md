@@ -21,3 +21,8 @@ This is one of the most useful feature of this framework, it enables you to push
 2. Change `ota` setting in `global.json` and set it to `true`
 3. Use postman or if you have your own REST api caller. and call `YOUR_DOMAIN/--build/push` with POST method, contain `file` as the body request and upload your zipped file there, dont forget to set `x-body-token` in your request header.
 4. Your build should automatically runs.
+
+#
+#
+
+feel free to contact me if there is some error or any advice in zainroyan.personal@gmail.com or DM me on insta https://www.instagram.com/zain_royan/?hl=id :)
