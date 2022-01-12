@@ -1,0 +1,25 @@
+[
+  {
+    "port": 9000,
+    "build/token": "",
+    "ota": false,
+    "headers": [
+      {
+        "name": "X-Powered-By",
+        "value": ""
+      },
+      {
+        "name": "Cache-Control",
+        "value": "no-cache, no-store"
+      },
+      {
+        "name": "X-Frame-Options",
+        "value": "DENY"
+      },
+      {
+        "name": "X-Content-Type-Options",
+        "value": "nosniff"
+      }
+    ]
+  }
+]

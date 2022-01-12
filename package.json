@@ -1,0 +1,21 @@
+{
+  "name": "openrapid_react_host",
+  "version": "1.0.0",
+  "description": "React JS Host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zainroyan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console.icon": "^1.0.0",
+    "express": "^4.17.2",
+    "multer": "^1.4.4",
+    "node-watch": "^0.7.2",
+    "recursive-readdir": "^2.2.2",
+    "unzipper": "^0.10.11",
+    "uuid": "^8.3.2"
+  }
+}
